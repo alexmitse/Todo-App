@@ -1,0 +1,8 @@
+.add-item {
+    margin-top: 10px;
+}
+
+.add-item input {
+    margin-right: 3px;
+    flex: 2;
+}

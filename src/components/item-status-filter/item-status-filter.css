@@ -1,0 +1,9 @@
+.btn-group {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: flex-end;
+    order: 1;
+}
+
+.btn .btn-info {}
